@@ -1,0 +1,4 @@
+exercise_id,scenario,scheduled_date,actual_date,exercise_status,exercise_owner,containment_tested,notification_tested,after_action_evidence,open_issues
+IR-EX-001,Compromised Microsoft 365 account,2026-09-20,2026-09-20,Completed,IT Manager,Yes,No,Summary Only,Notification timing and stakeholder criteria not documented
+IR-EX-002,Ransomware affecting cloud application,2026-10-10,,Not Performed,IT Manager,Not Tested,Not Tested,Not Provided,Exercise postponed with no rescheduled date
+IR-EX-003,Suspicious GitHub administrator activity,2026-10-18,2026-10-18,Completed,Engineering Lead,Yes,No,Summary Only,Containment steps discussed but execution timestamps and approvals not retained

@@ -1,0 +1,10 @@
+
+asset_id,asset_type,assigned_employee,department,mdm_enrolled,disk_encrypted,last_verified
+LAP-001,Laptop,EMP-001,IT,Yes,Yes,2026-10-20
+LAP-002,Laptop,EMP-002,Engineering,Yes,Yes,2026-10-20
+LAP-003,Laptop,EMP-003,Sales,Yes,Yes,2026-10-20
+LAP-004,Laptop,EMP-004,Operations,Yes,Yes,2026-10-20
+LAP-005,Laptop,EMP-005,Engineering,No,Yes,2026-10-20
+LAP-006,Laptop,EMP-006,Finance,Yes,No,2026-10-20
+LAP-007,Laptop,,Operations,Unknown,Unknown,2026-10-20
+LAP-008,Laptop,EMP-008,Administration,Yes,Yes,2026-10-20

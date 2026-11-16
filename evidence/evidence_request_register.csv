@@ -1,22 +1,22 @@
 
-request_id,csf_id,evidence_requested,owner,status
-ER-001,GV.RR-02,Security responsibility matrix,IT Manager,Planned
-ER-002,GV.PO-01,Approved cybersecurity policy,IT Manager,Planned
-ER-003,GV.PO-02,Policy review and approval history,IT Manager,Planned
-ER-004,ID.AM-01,Hardware asset inventory,IT Administrator,Planned
-ER-005,ID.AM-02,Software and cloud service inventory,IT Administrator,Planned
-ER-006,ID.RA-01,Vulnerability scan and tracking report,IT Administrator,Planned
-ER-007,ID.RA-05,Risk assessment methodology,IT Manager,Planned
-ER-008,PR.AA-01,Employee onboarding and offboarding records,IT Administrator,Planned
-ER-009,PR.AA-03,Authentication policy and MFA configuration,IT Administrator,Planned
-ER-010,PR.AA-05,User access review records,IT Administrator,Planned
-ER-011,PR.AT-01,Security awareness training records,Operations Manager,Planned
-ER-012,PR.DS-11,Backup configuration and restoration test records,IT Administrator,Planned
-ER-013,PR.PS-04,Audit log configuration and retention policy,IT Administrator,Planned
-ER-014,DE.CM-03,Security monitoring and alert review records,IT Administrator,Planned
-ER-015,DE.AE-03,Multi-source incident investigation records,IT Manager,Planned
-ER-016,RS.MA-01,Incident response plan and exercise records,IT Manager,Planned
-ER-017,RS.CO-02,Incident notification and escalation procedures,IT Manager,Planned
-ER-018,RS.MI-01,Incident containment procedures,IT Manager,Planned
-ER-019,RC.RP-01,Business recovery plan and exercise results,Operations Manager,Planned
-ER-020,RC.RP-05,Recovery validation and sign-off records,Operations Manager,Planned
+request_id,csf_id,evidence_requested,owner,status,evidence_reference,review_notes
+ER-001,GV.RR-02,Security responsibility matrix,IT Manager,Partial,policies/security_governance_policy.md,Roles described but no formal responsibility matrix provided
+ER-002,GV.PO-01,Approved cybersecurity policy,IT Manager,Partial,policies/security_governance_policy.md,Policy available but formal management approval not evidenced
+ER-003,GV.PO-02,Policy review and approval history,IT Manager,Not Provided,,No formal review schedule or approval history supplied
+ER-004,ID.AM-01,Hardware asset inventory,IT Administrator,Partial,evidence/hardware_asset_inventory.csv,Eight sample devices provided; ownership and security information incomplete
+ER-005,ID.AM-02,Software and cloud service inventory,IT Administrator,Not Provided,,Company profile lists systems but no maintained application inventory supplied
+ER-006,ID.RA-01,Vulnerability scan and tracking report,IT Administrator,Partial,evidence/vulnerability_tracking_report.csv,Tracking records supplied but underlying scan evidence not provided
+ER-007,ID.RA-05,Risk assessment methodology,IT Manager,Partial,policies/security_governance_policy.md,General likelihood and impact approach described without detailed methodology
+ER-008,PR.AA-01,Employee onboarding and offboarding records,IT Administrator,Partial,policies/access_control_policy.md,Procedure described but completed transaction records not supplied
+ER-009,PR.AA-03,Authentication policy and MFA configuration,IT Administrator,Partial,evidence/mfa_configuration_export.csv,Sample of eight accounts; three without enforced MFA
+ER-010,PR.AA-05,User access review records,IT Administrator,Partial,policies/access_control_policy.md,Periodic reviews referenced but signed review records not supplied
+ER-011,PR.AT-01,Security awareness training records,Operations Manager,Partial,evidence/security_awareness_training.csv,Ten employee records; two overdue and one unassigned
+ER-012,PR.DS-11,Backup configuration and restoration test records,IT Administrator,Partial,evidence/backup_restoration_test_results.csv,Restoration summaries supplied but detailed logs and backup configurations missing
+ER-013,PR.PS-04,Audit log configuration and retention policy,IT Administrator,Not Provided,,No audit logging configuration or retention evidence supplied
+ER-014,DE.CM-03,Security monitoring and alert review records,IT Administrator,Not Provided,,Monitoring configuration and alert review records not supplied
+ER-015,DE.AE-03,Multi-source incident investigation records,IT Manager,Not Provided,,No correlated log analysis or investigation records supplied
+ER-016,RS.MA-01,Incident response plan and exercise records,IT Manager,Partial,evidence/incident_response_exercise_results.csv,Two exercise summaries available; one planned exercise not performed
+ER-017,RS.CO-02,Incident notification and escalation procedures,IT Manager,Partial,policies/incident_response_policy.md,Communication responsibilities described but notification testing incomplete
+ER-018,RS.MI-01,Incident containment procedures,IT Manager,Partial,evidence/incident_response_exercise_results.csv,Containment tested in exercises but detailed execution evidence limited
+ER-019,RC.RP-01,Business recovery plan and exercise results,Operations Manager,Partial,policies/backup_recovery_policy.md,General recovery procedures documented but formal recovery exercises not evidenced
+ER-020,RC.RP-05,Recovery validation and sign-off records,Operations Manager,Partial,evidence/backup_restoration_test_results.csv,Restoration summaries available; failed and overdue recovery targets need review

@@ -1,0 +1,11 @@
+employee_id,department,training_topic,assigned_date,due_date,completion_date,status
+EMP-001,IT,Annual Security Awareness,2026-09-01,2026-09-30,2026-09-10,Completed
+EMP-002,Engineering,Annual Security Awareness,2026-09-01,2026-09-30,2026-09-15,Completed
+EMP-003,Sales,Annual Security Awareness,2026-09-01,2026-09-30,2026-09-22,Completed
+EMP-004,Operations,Annual Security Awareness,2026-09-01,2026-09-30,,Overdue
+EMP-005,Engineering,Annual Security Awareness,2026-09-01,2026-09-30,2026-09-25,Completed
+EMP-006,Finance,Annual Security Awareness,2026-09-01,2026-09-30,,Overdue
+EMP-007,Operations,Annual Security Awareness,2026-09-01,2026-09-30,2026-09-28,Completed
+EMP-008,Administration,Annual Security Awareness,2026-09-01,2026-09-30,2026-09-18,Completed
+EMP-009,Sales,Annual Security Awareness,2026-09-01,2026-09-30,2026-09-29,Completed
+EMP-010,Engineering,Annual Security Awareness,,,,Not Assigned

@@ -1,0 +1,9 @@
+account_id,application,account_type,mfa_enforced,exception_reference,review_date
+ACC-001,Microsoft 365,Privileged,Yes,N/A,2026-10-20
+ACC-002,Microsoft 365,Standard,Yes,N/A,2026-10-20
+ACC-003,Microsoft 365,Standard,No,None,2026-10-20
+ACC-004,GitHub,Privileged,Yes,N/A,2026-10-20
+ACC-005,GitHub,Standard,No,None,2026-10-20
+ACC-006,Jira,Standard,Yes,N/A,2026-10-20
+ACC-007,Microsoft 365,Standard,No,EX-014,2026-10-20
+ACC-008,Confluence,Standard,Yes,N/A,2026-10-20
