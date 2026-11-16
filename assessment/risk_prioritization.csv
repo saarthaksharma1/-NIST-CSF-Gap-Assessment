@@ -1,0 +1,8 @@
+priority_rank,finding_id,finding_name,business_impact,urgency,implementation_effort,priority,proposed_owner,priority_justification
+1,GF-002,Vulnerability Remediation Tracking,High,High,Moderate,High,Engineering Lead,Critical cloud application vulnerability remains open past its target date and a high-severity vulnerability lacks a deadline
+2,GF-001,Inconsistent MFA Enforcement,High,High,Moderate,High,IT Administrator,Three sampled accounts lack MFA enforcement and the undocumented exception requires investigation
+3,GF-003,Backup and Recovery Validation,High,High,Moderate,High,IT Manager,Failed and missed restoration tests create uncertainty about the ability to recover critical business services
+4,GF-005,Incomplete Hardware Asset Records,Medium,Medium,Low,Medium,IT Administrator,Missing device ownership and security settings increase the risk of unmanaged or unprotected company equipment
+5,GF-007,Incident Response and Communication,High,Medium,Moderate,Medium,IT Manager,Incident exercises were incomplete and notification responsibilities have not been adequately tested
+6,GF-006,Security Governance Documentation,Medium,Medium,Low,Medium,IT Manager,Missing formal approvals and review records weaken accountability and ongoing security oversight
+7,GF-004,Security Awareness Training,Medium,Medium,Low,Medium,Operations Manager,Overdue and unassigned training may leave employees less prepared to recognize security threats

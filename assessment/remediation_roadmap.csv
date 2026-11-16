@@ -1,0 +1,17 @@
+task_id,related_id,phase,remediation_action,owner,start_date,target_date,priority,completion_evidence,status
+RM-001,GF-002,Phase 1,Review VULN-004 immediately and document mitigation or remediation plan,Engineering Lead,2026-11-16,2026-11-18,High,Approved vulnerability response ticket,Planned
+RM-002,GF-002,Phase 1,Verify remediation of critical vulnerabilities and establish tracking deadlines,Engineering Lead,2026-11-16,2026-12-04,High,Updated vulnerability tracker and verification results,Planned
+RM-003,GF-001,Phase 1,Review MFA coverage and investigate exception EX-014,IT Administrator,2026-11-16,2026-11-25,High,Complete MFA coverage export and exception review,Planned
+RM-004,GF-001,Phase 2,Implement approved authentication requirements and resolve unapproved exceptions,IT Administrator,2026-12-16,2026-12-30,High,Updated MFA settings and approved exception register,Planned
+RM-005,GF-003,Phase 1,Investigate failed backup test and complete missed restoration exercise,IT Administrator,2026-11-16,2026-12-07,High,Restoration logs and completed test records,Planned
+RM-006,GF-003,Phase 2,Document recovery objectives and obtain restoration test approvals,IT Manager,2026-12-16,2027-01-14,High,Approved recovery objectives and signed restoration results,Planned
+RM-007,GF-005,Phase 1,Investigate LAP-005 LAP-006 and LAP-007 and correct asset records,IT Administrator,2026-11-16,2026-12-15,Medium,Updated device inventory and security configuration evidence,Planned
+RM-008,GF-004,Phase 1,Follow up on overdue training and assign missing employee training,Operations Manager,2026-11-16,2026-12-04,Medium,Updated training assignments and completion records,Planned
+RM-009,GF-007,Phase 2,Update incident notification procedures and perform a tabletop exercise,IT Manager,2026-12-16,2027-01-14,Medium,Approved communication procedure and tabletop results,Planned
+RM-010,GF-006,Phase 2,Formalize security responsibilities and establish policy review approvals,IT Manager,2026-12-16,2027-01-14,Medium,Responsibility matrix and approved policy review schedule,Planned
+RM-011,ER-005,Phase 1,Obtain software and cloud service inventory for assessment,IT Administrator,2026-11-16,2026-12-10,Assessment,Application inventory and inventory owner confirmation,Planned
+RM-012,ER-013,Phase 1,Obtain logging configuration and retention records,IT Administrator,2026-11-16,2026-12-08,Assessment,Logging configuration and retention documentation,Planned
+RM-013,ER-014,Phase 1,Obtain security monitoring and alert review evidence,IT Administrator,2026-11-16,2026-12-08,Assessment,Monitoring settings and sample alert review records,Planned
+RM-014,ER-015,Phase 1,Obtain multi-source security investigation records,IT Manager,2026-11-16,2026-12-10,Assessment,Sample correlated event investigation records,Planned
+RM-015,ALL,Phase 3,Retest remediated controls and update the current versus target assessment,IT Manager,2027-01-15,2027-02-10,High,Retesting results and updated assessment matrix,Planned
+RM-016,ALL,Phase 3,Review outstanding risks and present final remediation progress to management,IT Manager,2027-02-10,2027-02-13,High,Management review notes and final progress summary,Planned
