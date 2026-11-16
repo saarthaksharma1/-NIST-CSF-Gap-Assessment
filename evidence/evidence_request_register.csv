@@ -1,0 +1,22 @@
+
+request_id,csf_id,evidence_requested,owner,status
+ER-001,GV.RR-02,Security responsibility matrix,IT Manager,Planned
+ER-002,GV.PO-01,Approved cybersecurity policy,IT Manager,Planned
+ER-003,GV.PO-02,Policy review and approval history,IT Manager,Planned
+ER-004,ID.AM-01,Hardware asset inventory,IT Administrator,Planned
+ER-005,ID.AM-02,Software and cloud service inventory,IT Administrator,Planned
+ER-006,ID.RA-01,Vulnerability scan and tracking report,IT Administrator,Planned
+ER-007,ID.RA-05,Risk assessment methodology,IT Manager,Planned
+ER-008,PR.AA-01,Employee onboarding and offboarding records,IT Administrator,Planned
+ER-009,PR.AA-03,Authentication policy and MFA configuration,IT Administrator,Planned
+ER-010,PR.AA-05,User access review records,IT Administrator,Planned
+ER-011,PR.AT-01,Security awareness training records,Operations Manager,Planned
+ER-012,PR.DS-11,Backup configuration and restoration test records,IT Administrator,Planned
+ER-013,PR.PS-04,Audit log configuration and retention policy,IT Administrator,Planned
+ER-014,DE.CM-03,Security monitoring and alert review records,IT Administrator,Planned
+ER-015,DE.AE-03,Multi-source incident investigation records,IT Manager,Planned
+ER-016,RS.MA-01,Incident response plan and exercise records,IT Manager,Planned
+ER-017,RS.CO-02,Incident notification and escalation procedures,IT Manager,Planned
+ER-018,RS.MI-01,Incident containment procedures,IT Manager,Planned
+ER-019,RC.RP-01,Business recovery plan and exercise results,Operations Manager,Planned
+ER-020,RC.RP-05,Recovery validation and sign-off records,Operations Manager,Planned

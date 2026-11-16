@@ -1,8 +1,8 @@
 # Cedar Ridge Services — Company Security Profile
 
-**Assessment:** NIST CSF 2.0 Cybersecurity Gap Assessment  
-**Industry:** IT and Business Services  
-**Company Size:** 50 employees  
+**Assessment:** NIST CSF 2.0 Cybersecurity Gap Assessment
+**Industry:** IT and Business Services
+**Company Size:** 50 employees
 **Assessment Type:** Simulated Internal Security Assessment
 
 ## 1. Company Overview
@@ -17,14 +17,14 @@ As the business grows, management wants to better understand its cybersecurity r
 
 The company relies on the following systems:
 
-| System | Business Purpose |
-|---|---|
-| Microsoft 365 | Email, collaboration, and employee accounts |
-| GitHub | Source code management |
-| Jira | Project and issue tracking |
-| Confluence | Internal documentation |
-| Cloud Infrastructure | Hosting business applications |
-| Backup Systems | Data protection and recovery |
+| System               | Business Purpose                            |
+| -------------------- | ------------------------------------------- |
+| Microsoft 365        | Email, collaboration, and employee accounts |
+| GitHub               | Source code management                      |
+| Jira                 | Project and issue tracking                  |
+| Confluence           | Internal documentation                      |
+| Cloud Infrastructure | Hosting business applications               |
+| Backup Systems       | Data protection and recovery                |
 
 Most employees access these systems remotely or from the company office.
 
@@ -90,7 +90,3 @@ The assessment will focus on:
 - Security monitoring and vulnerability management
 - Incident response preparedness
 - Data backup and recovery
-
-The assessment will evaluate approximately 20 selected NIST CSF 2.0 outcomes rather than every framework outcome.
-
-**Limitations:** All company information, records, policies, and evidence are fictional. This project demonstrates a framework-based cybersecurity gap assessment and does not represent a real organizational audit or compliance certification.
